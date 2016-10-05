@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/montyanderson/rsearch/issues"
   },
-  "homepage": "https://github.com/montyanderson/rsearch#readme"
+  "homepage": "https://github.com/montyanderson/rsearch#readme",
+  "devDependencies": {
+    "benchmark": "^2.1.1"
+  }
 }
